@@ -1,0 +1,9 @@
+/node_modules
+/imgui-js
+/dist
+/.idea
+
+/server/node_modules
+/server/dist/
+
+/src/models
